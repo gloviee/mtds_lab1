@@ -30,4 +30,8 @@ python main.py <path-with-filename>.txt
 
 ## Revert commit
 
+<<<<<<< HEAD
 Here is revert commit
+=======
+Here is revert commit 
+>>>>>>> 4b4be6c66e07ac30292fc78726411a5f57dbc5b5
